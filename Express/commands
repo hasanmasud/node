@@ -1,0 +1,5 @@
+1. 	express MyApp
+2.	npm install
+3.	cd MyApp
+	set DEBUG=MyApp & npm start
+	
