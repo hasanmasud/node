@@ -1,0 +1,15 @@
+{
+  "name": "nodetutorial",
+  "version": "1.0.0",
+  "description": "node js tutorials",
+  "main": "app.js",
+  "dependencies": {
+  	"express" : "4.13.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Masud Hasan <masudbook@gmail.com>",
+  "license": "ISC"
+}
